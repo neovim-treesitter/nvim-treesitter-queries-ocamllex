@@ -1,7 +1,7 @@
 {
-  "parser_version": "33722b8be73079946a7c6dd9598e3f57956ed36d",
-  "lang": "ocamllex",
   "generate": true,
+  "semver": false,
   "url": "https://github.com/atom-ocaml/tree-sitter-ocamllex",
-  "semver": false
+  "lang": "ocamllex",
+  "parser_version": "33722b8be73079946a7c6dd9598e3f57956ed36d"
 }
